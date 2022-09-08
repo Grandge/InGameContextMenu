@@ -12,6 +12,8 @@ Unityのゲーム内で使用する、コンテキストメニューです。
 
 使用するにはSceneのヒエラルキーにCanvasとEventSystemが必要です。
 
+# Check
+Editor virsion 2021.2.17f Checked
 
 # Sample Code
 ```C#
